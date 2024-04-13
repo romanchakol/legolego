@@ -1,0 +1,13 @@
+
+*{
+margin: 0;
+ padding: 0;
+box-sizing: border-box;
+}
+.header {
+height: 120px;
+background-color: #0b82d1;
+}
+.logo{
+
+}
